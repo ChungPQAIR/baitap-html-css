@@ -1,0 +1,283 @@
+#red{
+    color: red;
+    font-size: 20px;
+}
+
+#red2{
+    color: red;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+
+#green{
+    background-color: green;
+
+}
+#sun{
+    background-color:  red;
+}
+#pus{
+    color: palevioletred;
+}
+#Form{
+    color: red;
+    font-size: 50px;
+}
+ #Form{
+    display: table;
+    width: 50%;
+    height: 20px;
+    border: 3px;
+    padding: 10px;
+} 
+ #hello{
+    color: blue;
+}
+
+#employ{
+    color: red;
+}
+
+#bodylear{
+    width:600px; 
+    height:300px; 
+    border:1px solid black; 
+    text-align:center;
+}
+.Excercise{
+  
+    width:600px;
+    height:300px; 
+    border:1px solid black; 
+    text-align:center;
+    
+}
+#Madison{
+    color: blue;
+    font-size: 25px;
+    text-decoration: underline;
+
+}
+#I-love{
+    font-size: small;
+    position: absolute;;
+    left: 0px;
+}
+#bai8{
+    background-color: yellow;
+}
+.page{
+    color: blue;
+}
+#my{
+    color: brown;
+}
+.Wecome{
+    font-size: 20px;
+}
+/* :root{
+    -webkit-text-fill-color: brown;
+} */
+/* {
+    color: var(-webkit-text-fill-color);
+} */
+.lacks{
+    font-size: 20px;
+}
+.shold{
+    font-size:  20px;
+}
+.made{
+    font-size: 20px;
+    font-style: italic;
+}
+.by{
+    font-size: 20px;
+    font-style: italic;
+}
+
+#Bainice{
+    background-color: blueviolet;
+}
+#Font-just{
+    color: brown;
+    font-size: 25px;
+}
+#href-table{
+    font-size: 25px;
+    color: blue;
+}
+.CSS{
+    color:brown ;
+    font-size: 25px;
+}
+.HTML{
+    color: blue;
+    font-size: 25px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid greenyellow;
+}
+tr:nth-child(even){
+    background-color: greenyellow;
+}
+th:nth-child(even){
+    background-color: darkgrey;
+}
+
+#bai13{
+   
+width: 80%;
+margin: 0px auto;
+border: 20px solid rgb(0, 79, 128);
+font-size: 70%;
+line-height: 30px;
+text-align: center;
+    
+}
+/* #Survey{
+    
+} */
+
+#Person{
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    
+    
+}
+#commen{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#calculate{
+    background-color: brown;
+    width: auto;
+    left: auto;
+
+}
+#Tip{
+    /* border: 5px solid black; */
+    border-top-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    margin: 0 auto;
+    line-height: 50px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    /* width: 300px; */
+    /* left: 300px; */
+
+}
+#Top{
+     text-align: center;
+    background-color: aliceblue;
+    width: 400px;
+    left: auto;
+    text-align: center;
+    border-top-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px !important;
+    border-bottom-left-radius: 40px 40px !important;
+   
+}
+.cau{
+    background-color: red;
+    color: white;
+    font-size: large;
+
+}
+
+button{
+    font-size: 20px;
+}
+.dola{
+    font-size: 10px;
+}
+.subcribe{
+    background-color: rgb(0, 234, 255);
+}
+/* button{
+    background-color: blue;
+    font-size:50px;
+    margin: 0 auto;
+
+} */
+#Travel{
+    font-size: 50%;
+}
+img{width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    
+
+}
+#Your{text-decoration-line: overline;}
+#Recent{
+    text-decoration-line: overline;
+}
+.b7{
+    background-color: chocolate;
+    font-size: x-large;
+}
+#I-love{
+    text-align: left;
+}
+#Java{
+    width: auto;
+    left: auto;
+    background-color: whitesmoke;
+}
+#beginer{
+    font-size: 70%;
+}
+#begin{
+    font-size: 70%;
+    line-height: 30px;
+}
+.Button{
+    font-size: xxx-large;
+    background-color:rgb(10, 85, 222);
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+border-radius: 15px 15px;
+border-radius: 15px 15px 15px;
+border-radius: 15px 15px 15px;
+text-align: center;
+}
+#calculate{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* left: 300px; */
+
+}
+/* #Top{
+    width: 50%;
+    left: 50%;
+    border-radius: 15px 15px;
+border-radius: 15px 15px 15px;
+border-radius: 15px 15px 15px; */
+
+/* } */
+
+#bai-333{
+
+}
+#card-survay-form{
+    text-align: center;
+
+}
